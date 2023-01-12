@@ -1,0 +1,29 @@
+
+Pre Order: 8 10 1 6 4 16 12 7 17 27 3 14 13 
+In Order: 1 10 12 16 4 6 7 17 27 8 3 13 14 
+Post Order: 1 12 16 4 27 17 7 6 10 13 14 3 8 
+
+Total Nodes in the given binary tree: 13
+
+Height of the given binary tree: 6
+
+Diameter of the given binary tree: 8
+
+Level Order Traversal: 
+8 
+10 3 
+1 6 14 
+4 7 13 
+16 17 
+12 27 
+
+Right View: 
+8
+3
+14
+13
+17
+27
+
+Top View: 12 1 10 8 3 14 27 
+
